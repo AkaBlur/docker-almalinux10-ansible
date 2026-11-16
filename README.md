@@ -1,4 +1,4 @@
-# CentOS Stream 10 - Ansible Molecule testing image
+# AlmaLinux 10 - Ansible Molecule testing image
 
 [![Docker CI](https://github.com/AkaBlur/docker-almalinux10-ansible/actions/workflows/docker-publish.yaml/badge.svg?branch=master)](https://github.com/AkaBlur/docker-almalinux10-ansible/actions/workflows/docker-publish.yaml)
 
