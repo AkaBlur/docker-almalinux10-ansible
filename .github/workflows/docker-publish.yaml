@@ -7,6 +7,8 @@ on:
   push:
     branches:
       - master
+    paths:
+      - "Dockerfile"
   schedule:
     - cron: "0 4 * * 1"
   workflow_dispatch:
