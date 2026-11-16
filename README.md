@@ -34,7 +34,7 @@ docker pull quay.io/rubixx_cube/almalinux-ansible:10
 
 ```bash
 # podman
-podman run --rm -d --name test quay.io/rubixx_cube/centosstream-ansible:10
+podman run --rm -d --name test quay.io/rubixx_cube/almalinux-ansible:10
 # Docker
 docker run --rm -d --name test \
     -v /sys/fs/cgroup:/sys/fs/cgroup:rw \
